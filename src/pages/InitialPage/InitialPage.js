@@ -1,5 +1,5 @@
 import './InitialPage.scss';
-import Intro from "../../assets/videos/intro.mp4";
+import Intro from "../../assets/videos/d10-intro.mp4";
 
 
 function InitialPage() {
