@@ -4,6 +4,7 @@ import "./SignUpPage.scss"
 function SignUpPage() {
     return (
         <>
+        <h1 className="signup__header">Registrate</h1>
         <div className="signup__container">
             <form className="signup__form">
                 <label htmlFor="username" className="signup__label signup__label-name">Nombre</label>
