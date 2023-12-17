@@ -12,7 +12,7 @@ function InitialPage() {
             </div>
             <div className='initial__content'>
                 <button className='initial__button'>Registrarse</button>
-                <button className='initial__button'>Iniciar Sesion</button>
+                <button className='initial__button initial__button--login'>Iniciar Sesion</button>
             </div>
         </section>
     )
